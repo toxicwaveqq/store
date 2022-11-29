@@ -1,0 +1,913 @@
+body {
+    margin: 0;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.cotainer {
+    margin: 0px 222px;
+}
+
+.local {
+    margin: 22px;
+}
+
+.header {
+    background-image: url(bg.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-line {
+    padding-top: 32px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-item {
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+
+    margin-right: 205px;      
+}
+
+.header-logo  {
+    position: absolute;
+    width: 95px;
+    height: 128px;
+    left: 1603px;
+    top: 32px;
+} 
+.txc {
+    position: absolute;
+width: 357px;
+height: 139px;
+left: 135px;
+top: 32px;
+}  
+
+.erer {
+    position: absolute;
+width: 252px;
+height: 68px;
+left: 708px;
+top: 880px;
+text-decoration: none;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 151.54%;
+/* or 34px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.rere {
+    position: absolute;
+width: 155px;
+height: 33px;
+left: 249px;
+top: 880px;
+text-decoration: none;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 160.94%;
+/* or 39px */
+
+
+color: #000000;
+}
+
+.nav-item1 {
+    position: absolute;
+    width: 292px;
+    height: 36px;
+    left: 365px;
+    top: 541px;
+    text-decoration: none;
+    
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 151.54%;
+    /* or 35px */
+    
+    text-align: right;
+    
+    color: #000000;
+}
+
+.nav-item2 {
+    position: absolute;
+    width: 104px;
+    height: 58px;
+    left: 862px;
+    top: 541px;
+    text-decoration: none;
+    
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 151.54%;
+    /* or 35px */
+    
+    text-align: right;
+    
+    color: #000000;
+
+text-align: right;
+
+}
+
+.nav-item3 {
+    position: absolute;
+width: 187px;
+height: 36px;
+left: 1221px;
+top: 541px;
+text-decoration: none;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 151.54%;
+/* or 35px */
+
+text-align: right;
+
+color: #000000;
+}
+
+.footer1 {
+    position: absolute;
+width: 45px;
+height: 46px;
+left: 1161px;
+top: 880px;
+}
+
+.footer2 {
+    position: absolute;
+width: 50px;
+height: 46px;
+left: 1277px;
+top: 880px;
+}
+
+.footer3 {
+    position: absolute;
+width: 53px;
+height: 46px;
+left: 1398px;
+top: 880px;
+}
+
+.teetee {
+    position: absolute;
+width: 265px;
+height: 270px;
+left: 440px;
+top: 270px;
+}
+
+.teeteeq {
+    position: absolute;
+width: 275px;
+height: 277px;
+left: 800px;
+top: 254px;
+}
+
+.sharf {
+    position: absolute;
+width: 353px;
+height: 249px;
+left: 1180px;
+top: 300px;
+}
+ 
+.price1 {
+    position: absolute;
+width: 79px;
+height: 35px;
+left: 514px;
+top: 581px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 151.54%;
+/* identical to box height, or 35px */
+
+text-align: right;
+
+color: #000000;
+
+}
+
+.price2 {
+    position: absolute;
+width: 79px;
+height: 35px;
+left: 882px;
+top: 586px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 151.54%;
+/* identical to box height, or 35px */
+
+text-align: right;
+
+color: #000000;
+}
+
+.price3 {
+    position: absolute;
+width: 79px;
+height: 35px;
+left: 1298px;
+top: 581px;
+
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 151.54%;
+/* identical to box height, or 35px */
+
+text-align: right;
+
+color: #000000;
+}
+
+.logologo {
+    position: absolute;
+width: 71px;
+height: 93px;
+left: 1659px;
+top: 32px;
+}
+
+.txt1 {
+    position: absolute;
+width: 643px;
+height: 116px;
+left: 639px;
+top: 322px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 700;
+font-size: 38.1676px;
+line-height: 151.54%;
+/* or 58px */
+
+
+color: #000000;
+
+}
+
+.txt2 {
+    position: absolute;
+width: 102px;
+height: 59px;
+left: 1485px;
+top: 498px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 151.54%;
+/* or 41px */
+
+
+color: #000000;
+}
+.txt3 {
+    position: absolute;
+width: 709px;
+height: 54px;
+left: 980px;
+top: 541px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 145.04%;
+/* or 39px */
+
+text-align: center;
+
+color: #000000;
+mix-blend-mode: normal;
+}
+.txt4 {
+    position: absolute;
+width: 709px;
+height: 54px;
+left: 1015px;
+top: 600px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 145.04%;
+/* or 39px */
+
+text-align: center;
+
+color: #000000;
+mix-blend-mode: normal;
+}
+.txt5 {
+    position: absolute;
+width: 357px;
+height: 70px;
+left: 1230px;
+top: 675px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 145.04%;
+/* or 35px */
+
+text-align: center;
+
+color: #000000;
+}
+.txt6 {
+    position: absolute;
+width: 519px;
+height: 90px;
+left: 1130px;
+top: 731px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 145.04%;
+/* or 35px */
+
+text-align: center;
+
+color: #000000;
+}
+.txt7 {
+    position: absolute;
+width: 655px;
+height: 94px;
+left: 1055px;
+top: 805px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 145.04%;
+/* or 35px */
+
+
+color: #000000;
+
+}
+.txt8 {
+    position: absolute;
+width: 515px;
+height: 106px;
+left: 703px;
+top: 919px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 900;
+font-size: 29px;
+line-height: 145.04%;
+/* or 42px */
+
+
+color: #000000;
+
+mix-blend-mode: normal;
+}
+.txt9 {
+    position: absolute;
+width: 1283px;
+height: 42px;
+left: 500px;
+top: 1042px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 145.04%;
+/* or 25px */
+
+
+color: #000000;
+}
+.txt10 {
+    position: absolute;
+width: 887px;
+height: 46px;
+left: 500px;
+top: 1084px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+}
+.txt11 {
+    position: absolute;
+width: 904px;
+height: 50px;
+left: 500px;
+top: 1117px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 145.04%;
+/* or 25px */
+
+
+color: #000000;
+}
+.txt12 {
+    position: absolute;
+width: 922px;
+height: 46px;
+left: 500px;
+top: 1153px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+
+}
+.txt13 {
+    position: absolute;
+width: 865px;
+height: 46px;
+left: 500px;
+top: 1187px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+}
+.txt14 {
+    position: absolute;
+width: 845px;
+height: 46px;
+left: 500px;
+top: 1222px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+}
+.txt15 {
+    position: absolute;
+width: 158px;
+height: 46px;
+left: 850px;
+top: 1268px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+
+}
+.txt16 {
+    position: absolute;
+width: 665px;
+height: 46px;
+left: 500px;
+top: 1347px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+
+}
+.txt17 {
+    position: absolute;
+width: 946px;
+height: 46px;
+left: 500px;
+top: 1413px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+}
+.txt18 {
+    position: absolute;
+width: 257px;
+height: 46px;
+left: 1308px;
+top: 1502px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+}
+.txt19 {
+    position: absolute;
+width: 267px;
+height: 46px;
+left: 1308px;
+top: 1557px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+
+}
+.txt20 {
+    position: absolute;
+width: 193px;
+height: 46px;
+left: 1380px;
+top: 1595px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+
+}
+
+.txt21 {
+    position: absolute;
+width: 538px;
+height: 50px;
+left: 950px;
+top: 1680px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 145.04%;
+/* or 25px */
+
+
+color: #000000;
+
+}
+
+.txtt1 {
+    position: absolute;
+width: 495px;
+height: 94px;
+left: 520px;
+top: 258px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 145.04%;
+/* or 28px */
+
+
+color: #000000;
+
+}
+
+.txtt2 {
+    position: absolute;
+width: 222px;
+height: 57px;
+left: 520px;
+top: 324px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+}
+
+.txtt3 {
+    position: absolute;
+width: 995px;
+height: 80px;
+left: 538px;
+top: 364px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+}
+
+.txtt4 {
+    position: absolute;
+width: 1011px;
+height: 69px;
+left: 538px;
+top: 451px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+}
+
+.txtt5 {
+    position: absolute;
+width: 528px;
+height: 69px;
+left: 538px;
+top: 513px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+
+}
+
+.txtt6 {
+    position: absolute;
+width: 1036px;
+height: 88px;
+left: 538px;
+top: 582px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+}
+.txtt7 {
+    position: absolute;
+width: 1027px;
+height: 79px;
+left: 538px;
+top: 651px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+
+}
+
+.txtt8 {
+    position: absolute;
+width: 610px;
+height: 46px;
+left: 463px;
+top: 751px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145.04%;
+/* or 23px */
+
+
+color: #000000;
+
+}
+.txtt9 {
+    position: absolute;
+width: 129px;
+height: 44px;
+left: 480px;
+top: 792px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 145.04%;
+/* or 22px */
+
+
+color: #000000;
+
+}
+
+.txtt10 {
+    position: absolute;
+width: 137px;
+height: 44px;
+left: 480px;
+top: 818px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 145.04%;
+/* or 22px */
+
+
+color: #000000;
+}
+.txtt11 {
+    position: absolute;
+width: 148px;
+height: 44px;
+left: 480px;
+top: 844px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 145.04%;
+/* or 22px */
+
+
+color: #000000;
+}
+
+.txtt12 {
+    position: absolute;
+width: 218px;
+height: 44px;
+left: 480px;
+top: 866px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 145.04%;
+/* or 22px */
+
+
+color: #000000;
+}
+
+.txtt13 {
+    position: absolute;
+width: 925px;
+height: 44px;
+left: 480px;
+top: 888px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 145.04%;
+/* or 22px */
+
+
+color: #000000;
+}
+
+.txtt14 {
+    position: absolute;
+width: 982px;
+height: 63px;
+left: 480px;
+top: 914px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 145.04%;
+/* or 22px */
+
+
+color: #000000;
+}
+
+.txtt15 {
+    position: absolute;
+width: 278px;
+height: 44px;
+left: 480px;
+top: 962px;
+
+font-family: 'Delius';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 145.04%;
+/* or 22px */
+
+
+color: #000000;
+}
+
